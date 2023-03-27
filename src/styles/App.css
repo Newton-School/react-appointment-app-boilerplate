@@ -1,0 +1,13 @@
+input {
+    margin-bottom: 5px;
+}
+
+table {
+    margin-top: 10px;
+    border: 1px solid;
+    min-width: 250px;
+}
+
+th, tr, td {
+    border: 1px solid;
+}
